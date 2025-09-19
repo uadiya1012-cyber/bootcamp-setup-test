@@ -1,3 +1,4 @@
+
 # Bootcamp Setup Test
 
 Энэ бол iCode академийн Bootcamp-д зориулсан миний анхны репозитори.
